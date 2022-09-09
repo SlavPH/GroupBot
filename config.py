@@ -3,14 +3,8 @@
 # Config file
 
 
-
-
-
 #--------------------# Token
 Token = "Your bot token from @botfather"
-
-
-
 
 
 #--------------------# Administrator
