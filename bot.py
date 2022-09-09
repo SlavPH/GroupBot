@@ -91,10 +91,8 @@ def help_command(message):
 ▫️For unlock the link in group
 💭 unlock link
 
-
 ▫️For get chat user info (reply needed)
 💭 info
-
 
 ❗️ Note that bot must be admin in group
 """
