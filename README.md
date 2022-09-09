@@ -11,10 +11,14 @@ And **deletes service messages** (user joined , user left and etc.)
 
 # What i need to run this bot ?
 All you need is your bot **Token** which **@botfather** gives you!                        
-Add your token key in **config.py** file and run your bot                        
+Add your token key in **config.py** file and run your bot  
+Also you need install **pyTelegramBotAPI**:
+```
+pip3 install pytelegrambotapi
+```
 
 # Installation
-**[1]** Install `Python` and `Git`                                
+**[1]** Install **Python** and **Git**                                
 **[2]** `git clone https://github.com/SlavPH/GroupBot`                                             
 **[3]** `cd GroupBot`                                              
 **[4]** `chmod +x *`                                     
