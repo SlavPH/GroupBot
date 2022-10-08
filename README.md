@@ -37,8 +37,4 @@ git clone https://github.com/SlavPH/GroupBot && cd GroupBot && chmod +x *
 proxychains ./bot.py
 ```
 
-# Social Media
-❖ [Instagram](https://instagram.com/theslavph)                                                
-❖ [Telegram](https://telegram.me/theslavph)
-
 > Thanks 
